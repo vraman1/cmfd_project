@@ -1,0 +1,30 @@
+# Virtual environment
+venv/
+st_env/
+my_streamlit_env/
+.env/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Streamlit cache
+.streamlit/
+
+# Large files and datasets
+data/
+*.pth
+*.h5
+*.pt
+*.bin
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
